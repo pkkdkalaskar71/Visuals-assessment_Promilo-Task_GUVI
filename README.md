@@ -19,9 +19,9 @@
 . Create visualizations (e.g., charts, graphs) to present your findings effectively.
 
 #### Step 03 :- User Installation & Engagement Performance Analysis:
-Analyze the relationship between the User and factors such as region, customer demographics, and product attributes.
-Identify the most significant factors influencing sales and their impact.
-Determine any correlation or causation between variables and sales performance.
+- Analyze the relationship between the User and factors such as region, customer demographics, and product attributes.
+- Identify the most significant factors influencing sales and their impact.
+- Determine any correlation or causation between variables and sales performance.
 
 #### Step 04 :- Marketing Campaign Analysis:
 Evaluate the effectiveness of past marketing campaigns.
