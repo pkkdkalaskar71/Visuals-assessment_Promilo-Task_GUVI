@@ -33,5 +33,11 @@
 - A detailed report summarizing your analysis, findings, and recommendations
 - Visualizations (charts, graphs) to support your analysis.
 - Any additional code or scripts used for data preprocessing, analysis, or visualization.
+- Demonstrated ability to analyze and interpret data.
+- Clarity and structure of the report.
+- Creativity and effectiveness of data visualizations.
+- Quality and relevance of insights and recommendations.
+- Attention to detail in data cleaning and preprocessing.
+
 
 .
