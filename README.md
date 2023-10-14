@@ -12,9 +12,11 @@
 . Clean and preprocess the data as needed (e.g., handling missing values, data formatting).
 
 #### Step 02 :- Descriptive Analysis:
-Conduct an exploratory data analysis to gain insights into the dataset.
-Identify sales trends, patterns, and outliers.
-Create visualizations (e.g., charts, graphs) to present your findings effectively.
+. Conduct an exploratory data analysis to gain insights into the dataset.
+
+. Identify sales trends, patterns, and outliers.
+
+. Create visualizations (e.g., charts, graphs) to present your findings effectively.
 
 #### Step 03 :- User Installation & Engagement Performance Analysis:
 Analyze the relationship between the User and factors such as region, customer demographics, and product attributes.
