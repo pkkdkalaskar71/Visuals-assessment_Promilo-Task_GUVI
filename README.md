@@ -1,1 +1,1 @@
-# visuals_assessment_Promilo
+# visuals-assessment_Promilo-Task_GUVI
