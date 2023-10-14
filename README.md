@@ -2,12 +2,11 @@
 
 
 
-Assignment Title: "Data Analysis and Insights for different page Optimization & How to get more user install & Engagement from the App & Website"
+## Assignment Title: "Data Analysis and Insights for different page Optimization & How to get more user install & Engagement from the App & Website"
 
-Assignment:
+### Assignment:
 
-Data Exploration:
-
+#### Step 01 :- Data Exploration:
 Familiarize yourself with the dataset and its structure
 Identify the key variables available for analysis.
 Clean and preprocess the data as needed (e.g., handling missing values, data formatting).
