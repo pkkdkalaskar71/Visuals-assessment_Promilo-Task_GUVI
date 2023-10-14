@@ -6,7 +6,9 @@
 
 #### Step 01 :- Data Exploration:
 . Familiarize yourself with the dataset and its structure
+
 . Identify the key variables available for analysis.
+
 . Clean and preprocess the data as needed (e.g., handling missing values, data formatting).
 
 #### Step 02 :- Descriptive Analysis:
